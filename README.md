@@ -14,12 +14,15 @@ Committed to continuing professional development and expanding expertise in prod
 ## Skills 🛠
 ### Programming Technologies
 •⁠  ⁠SQL (PostgreSQL, BigQuery, MSSQL) 💾
+
 •⁠  ⁠Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, Keras, TensorFlow, PyTorch) 🐍
 
 
 ### Business Intelligence Tools 🛠
 •⁠  ⁠MS Excel 📊
+
 •⁠  ⁠MS Power BI 💼
+
 •⁠  ⁠Tableau 📊
 
 ### Version Control
@@ -44,6 +47,8 @@ Committed to continuing professional development and expanding expertise in prod
 ### MS PowerBI
 <details>
   <summary>Click to view</summary>
+
+  - [POS Performance Metrice Analysis](https://github.com/danielagbo44/POS-Performance-Metrics-Reports.git)
   
 
 
