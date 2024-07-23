@@ -48,7 +48,7 @@ Committed to continuing professional development and expanding expertise in prod
 <details>
   <summary>Click to view</summary>
 
-  - [POS Performance Metrice Analysis](https://github.com/danielagbo44/POS-Performance-Metrics-Reports.git)
+  - [POS Performance Analysis](https://github.com/danielagbo44/POS-Performance-Metrics-Reports.git)
   
 
 
