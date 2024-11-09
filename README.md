@@ -10,8 +10,11 @@ Daniel is a skilled professional with extensive experience in data analysis, pro
 </detials
 
 ## Skills 🛠
+### Technical Writing
+
+
 ### Programming Technologies
-•⁠  ⁠SQL (PostgreSQL, MSSQL) 💾
+•⁠  ⁠SQL (MSSQL) 💾
 
 •⁠  ⁠Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, Keras, TensorFlow, PyTorch) 🐍
 
