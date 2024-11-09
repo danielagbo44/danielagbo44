@@ -5,21 +5,18 @@
 <details>
   <summary>Click to view</summary>
   
-A Data Analyst with a strong foundation in data analysis and product management. Brings experience in developing and implementing data pipelines and conducting data analysis. 
-Possesses a passion for leveraging technology to solve complex business problems and is committed to delivering high-quality results for organizations. 
-Committed to continuing professional development and expanding expertise in product and data management.
+Daniel is a skilled professional with extensive experience in data analysis, product management, and improvement processes. Currently serving as a Graduate Teaching Assistant at Missouri University of Science and Technology since August 2023, Daniel previously held various roles at Jaiz Bank Plc from 2013 to 2023, including Data Analyst and Product Manager, where comprehensive analytical frameworks were developed to enhance business performance through data-driven insights. Earlier, Daniel contributed to IT business support and retail banking, focusing on product development and customer service. Daniel's career began at Heritage Bank Plc, providing retail banking and customer service management during the National Youth Service Corps. Daniel holds a Bachelor of Science degree in Statistics and Computer Science from the University of Agriculture, Makurdi.
 
 </detials
 
 ## Skills 🛠
 ### Programming Technologies
-•⁠  ⁠SQL (PostgreSQL, BigQuery, MSSQL) 💾
+•⁠  ⁠SQL (PostgreSQL, MSSQL) 💾
 
 •⁠  ⁠Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, Keras, TensorFlow, PyTorch) 🐍
 
 
 ### Business Intelligence Tools 🛠
-•⁠  ⁠MS Excel 📊
 
 •⁠  ⁠MS Power BI 💼
 
